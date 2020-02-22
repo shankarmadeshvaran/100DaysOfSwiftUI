@@ -3,5 +3,7 @@ This is a repository where I keep the projects done by learning from [Paul Hudso
 
 
 ## More Updates
-Follow me on [LinkedIn](https://linkedin.com/in/shankar-mathesh) or [Twitter](https://twitter.com/Shankar__am) to get the latest update about features, code and more. Consider star the repo if you like it. 
+Follow me on [LinkedIn](https://linkedin.com/in/shankar-mathesh) or [Twitter](https://twitter.com/Shankar__am) to get the latest update about features, code and more. 
+
+You can also follow [#100DaysOfSwiftUI](https://twitter.com/hashtag/100DaysOfSwiftUI) on twitter for latest updates!
 

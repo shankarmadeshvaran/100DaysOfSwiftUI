@@ -1,7 +1,7 @@
 # Day 16 - 19
 
 <p align="center">
-  <img src="https://github.com/shankarmadeshvaran/100DaysOfSwiftUI/tree/master/WeSplit/Screenshots/wesplit" width="65%" height="65%"/>
+  <img src="https://github.com/shankarmadeshvaran/100DaysOfSwiftUI/blob/master/WeSplit/ScreenShots/wesplit.png" width="65%" height="65%"/>
 </p>
 
 

@@ -1,4 +1,4 @@
-# Day 16 - 19
+# Day 16 - 19 - WeSplit
 
 <p align="center">
   <img src="https://github.com/shankarmadeshvaran/100DaysOfSwiftUI/blob/master/WeSplit/ScreenShots/wesplit.png" width="65%" height="65%"/>

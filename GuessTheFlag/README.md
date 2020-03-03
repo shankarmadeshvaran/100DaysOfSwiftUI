@@ -1,5 +1,9 @@
 # Day 20 - 22 - GuessTheFlag
 
+### Challenge
+- [x] Add an @State property to store the user’s score, modify it when they get an answer right or wrong, then display it in the alert.
+- [x] Show the player’s current score in a label directly below the flags.
+- [x] When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
 
 <p align="center">
   <img src="https://github.com/shankarmadeshvaran/100DaysOfSwiftUI/blob/master/GuessTheFlag/Screenshots/correctalert.png" width="33%" height="50%"/>

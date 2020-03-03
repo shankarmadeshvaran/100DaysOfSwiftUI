@@ -1,7 +1,7 @@
-# Day 16 - 19 - WeSplit
+# Day 23 - 24 - ViewsAndModifiers
 
 <p align="center">
-  <img src="https://github.com/shankarmadeshvaran/100DaysOfSwiftUI/blob/master/WeSplit/ScreenShots/wesplit.png" width="50%" height="50%"/>
+  <img src="https://github.com/shankarmadeshvaran/100DaysOfSwiftUI/blob/master/ViewsAndModifiers/Screenshots/" width="50%" height="50%"/>
 </p>
 
 

@@ -31,6 +31,8 @@ struct ContentView: View {
         return amountPerPerson
     }
     
+    @State var isTipZero = false
+    
     var body: some View {
         NavigationView {
             Form {
@@ -47,7 +49,6 @@ struct ContentView: View {
                         ForEach(0 ..< tipPercentages.count) {
                             Text("\(self.tipPercentages[$0])%")
                         }
-                        
                     }
                     .pickerStyle(SegmentedPickerStyle())
                 }
@@ -58,6 +59,7 @@ struct ContentView: View {
                 
                 Section(header: Text("Total Amount")){
                     Text("$\(grandTotal, specifier: "%.2f")")
+                    .foregroundColor(tipPercentages[tipPercentage] == 0 ? .red : .black)
                 }
             }
             .navigationBarTitle("WeSplit",displayMode: .automatic)

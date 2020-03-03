@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/shankarmadeshvaran/100DaysOfSwiftUI/blob/master/ViewsAndModifiers/Screenshots/ViewAndModifiers.png" width="70%" height="60%"/>
+<img src="https://github.com/shankarmadeshvaran/100DaysOfSwiftUI/blob/master/ViewsAndModifiers/Screenshots/ViewAndModifiers.png" width="100%" height="80%"/>
 </p>
 
 

@@ -1,5 +1,5 @@
 # 100DaysOfSwiftUI
-This is a repository where I keep the projects done by learning from [Paul Hudson's](https://twitter.com/twostraws) [100DaysOfSwiftUI](https://www.hackingwithswift.com/100/swiftui) tutorials.
+This is a repository where I keep the projects and Challenges done by learning from [Paul Hudson's](https://twitter.com/twostraws) [100DaysOfSwiftUI](https://www.hackingwithswift.com/100/swiftui) tutorials.
 
 
 ## More Updates

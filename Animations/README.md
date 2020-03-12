@@ -6,7 +6,7 @@
 - [x] if you tap on the wrong flag? Well, that’s down to you – get creative!
 
 <p align="center">
-  <img src="https://github.com/shankarmadeshvaran/100DaysOfSwiftUI/blob/master/Animations/ScreenShots/Animation-Challenge.gif" width="60%" height="60%"/>
+  <img src="https://github.com/shankarmadeshvaran/100DaysOfSwiftUI/blob/master/Animations/ScreenShots/Animation-Challenge.gif" width="50%" height="40%"/>
 </p>
 
 
